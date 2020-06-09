@@ -211,13 +211,13 @@ insert into pension values (2, 'Demi-Pension midi             ', 13.50);
 insert into pension values (3, 'Demi-Pension soir             ', 12.50);
 
 
-insert into client values (1, 'LAMBERT', 'Jean', '13 avenue du General de Gaulle', '81000', 'CASTRES', 7, 3, '2020-03-21', 0, 6, 1, 1);
-insert into client values (2, 'VENAT', 'Laure', '1 bis rue des Peupliers', '14000', 'CAEN', 4, 1, '2020-03-21', 0, 8, NULL, 1);
-insert into client values (3, 'COUVANT', 'Laurent', '4 avenue KLEBER', '94130', 'NOGENT SUR MARNE', 3, 2, '2020-03-22', 600, 1, 1, 1);
-insert into client values (4, 'HUYS', 'Didier', '20 rue de Niepce', '59000', 'LILLE', 1, 1, '2020-03-22', 250, 41, 2, 1);
-insert into client values (5, 'MOREIRA', 'Pablo', '5 rue Joffre', '14000', 'CAEN', 8, 2, '2020-03-22', 0, 101, NULL, 1);
-insert into client values (6, 'HANOT', 'Sebastien', '31 impasse Miroton', '27000', 'DREUX', 6, 2, '2020-03-23', 0, 102, 2, 1);
-insert into client values (7, 'FONTAINE', 'jean', '43 allee guynemer', '14110', 'CONDE SUR NOIREAU', 6, 2, '2020-03-23', 0, 2, 3, 1);
+insert into client values (1, 'LAMBERT', 'Jean', '13 avenue du General de Gaulle', '81000', 'CASTRES', 7, 3, '2020-09-10', 0, 6, 1, 1);
+insert into client values (2, 'VENAT', 'Laure', '1 bis rue des Peupliers', '14000', 'CAEN', 4, 1, '2020-09-10', 0, 8, NULL, 1);
+insert into client values (3, 'COUVANT', 'Laurent', '4 avenue KLEBER', '94130', 'NOGENT SUR MARNE', 3, 2, '2020-09-11', 600, 1, 1, 1);
+insert into client values (4, 'HUYS', 'Didier', '20 rue de Niepce', '59000', 'LILLE', 1, 1, '2020-09-11', 250, 41, 2, 1);
+insert into client values (5, 'MOREIRA', 'Pablo', '5 rue Joffre', '14000', 'CAEN', 8, 2, '2020-09-11', 0, 101, NULL, 1);
+insert into client values (6, 'HANOT', 'Sebastien', '31 impasse Miroton', '27000', 'DREUX', 6, 2, '2020-09-12', 0, 102, 2, 1);
+insert into client values (7, 'FONTAINE', 'jean', '43 allee guynemer', '14110', 'CONDE SUR NOIREAU', 6, 2, '2020-09-12', 0, 2, 3, 1);
 
 insert into determine values (1, 1, 'R');
 insert into determine values (1, 2, 'R');
